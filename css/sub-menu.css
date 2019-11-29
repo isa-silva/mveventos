@@ -1,0 +1,57 @@
+.cabecalho-menu{
+        background-color: #ffffff;
+        width: 1000px;
+        margin: auto;
+        padding: 10px;
+        height: 40px;
+}
+
+.menu{
+        width: 650px;
+        margin: auto;
+}
+
+.menu-urls{
+        height: 45px;
+        border-bottom: 5px solid #eaddcc;
+}
+
+.menu ul li {
+        display: inline-block;
+        color: 8b8b8b;
+        margin-left: 15px;
+}
+
+.menu ul li a:hover {
+    color: #da8965;
+}
+
+.menu ul li a{
+        color: #98847b;
+        text-decoration: none;
+        font-size: 18px;
+        text-transform: uppercase;
+}
+
+.busca{
+        text-align: center;
+        width: 300px;
+        height: 50px;
+        float: right;
+}
+
+.busca input{
+        background-image: url(../img/lupa.png);
+        background-repeat: no-repeat;
+        padding: 7px;
+        width: 190px;
+        margin-top: 19px;
+        background-position: 94%;
+        border: 1px solid #d6d6d6;
+}
+
+.col-100{
+        width: 100%;
+        position: relative;
+}
+
